@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  TicTacToe
+//  TicTacToe Game
 //
 //  Created by Anthony Ruiz on 8/9/18.
 //  Copyright © 2018 Jakaboy. All rights reserved.
